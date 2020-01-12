@@ -1,0 +1,22 @@
+sudoku.exe -c
+sudoku.exe -s
+sudoku.exe -c 100 5
+sudoku.exe -s 1000.txt 5
+sudoku.exe -p 1000.txt
+sudoku.exe -s solve.cpp
+sudoku.exe -s 1000.txt
+sudoku.exe -s 1000_0.txt
+sudoku.exe -s aaa
+sudoku.exe -c 0
+sudoku.exe -c 1
+sudoku.exe -c 2
+sudoku.exe -c 999999
+sudoku.exe -c 1000000
+sudoku.exe -c 10000001
+sudoku.exe -c 1000000000000
+sudoku.exe -c 0001
+sudoku.exe -c 123.45
+sudoku.exe -c -100
+sudoku.exe -c abc
+sudoku.exe -c100
+sudoku.exe -c 100000

@@ -1,0 +1,11 @@
+﻿  create.cpp
+  createTest.cpp
+c:\users\lenovo\desktop\sudoku\sudoku\createtest.cpp(92): warning C4018: “<=”: 有符号/无符号不匹配
+  define.cpp
+  main.cpp
+  solve.cpp
+c:\users\lenovo\desktop\sudoku\sudoku\solve.cpp(116): warning C4018: “<=”: 有符号/无符号不匹配
+  solveTest.cpp
+c:\users\lenovo\desktop\sudoku\sudoku\solvetest.cpp(21): warning C4018: “<=”: 有符号/无符号不匹配
+  正在生成代码...
+  sudoku.vcxproj -> C:\Users\lenovo\Desktop\sudoku\Debug\sudoku.exe
