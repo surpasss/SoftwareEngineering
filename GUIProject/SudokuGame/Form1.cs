@@ -301,7 +301,7 @@ namespace SudokuGame
                 return;
             }
             StreamReader buf = new StreamReader("answer.txt");
-            for (int k = 0; k < 10 * num; k++)
+            for (int k = 0; k < 10 * (num-1); k++)
             {
                 string linemore = buf.ReadLine();
             }

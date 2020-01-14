@@ -8,3 +8,13 @@ C:\Users\lenovo\Desktop\SudokuGame\SudokuGame\bin\Debug\SudokuGame.pdb
 C:\Users\lenovo\Desktop\SudokuGame\SudokuGame\obj\Debug\SudokuGame.Form1.resources
 C:\Users\lenovo\Desktop\SudokuGame\SudokuGame\obj\Debug\SudokuGame.exe
 C:\Users\lenovo\Desktop\SudokuGame\SudokuGame\obj\Debug\SudokuGame.pdb
+C:\Users\lenovo\Desktop\BigSudoku\SudokuGame\SudokuGame\bin\Debug\SudokuGame.exe.config
+C:\Users\lenovo\Desktop\BigSudoku\SudokuGame\SudokuGame\bin\Debug\SudokuGame.exe
+C:\Users\lenovo\Desktop\BigSudoku\SudokuGame\SudokuGame\bin\Debug\SudokuGame.pdb
+C:\Users\lenovo\Desktop\BigSudoku\SudokuGame\SudokuGame\obj\Debug\SudokuGame.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\BigSudoku\SudokuGame\SudokuGame\obj\Debug\SudokuGame.Form1.resources
+C:\Users\lenovo\Desktop\BigSudoku\SudokuGame\SudokuGame\obj\Debug\SudokuGame.Properties.Resources.resources
+C:\Users\lenovo\Desktop\BigSudoku\SudokuGame\SudokuGame\obj\Debug\SudokuGame.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\BigSudoku\SudokuGame\SudokuGame\obj\Debug\SudokuGame.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\BigSudoku\SudokuGame\SudokuGame\obj\Debug\SudokuGame.exe
+C:\Users\lenovo\Desktop\BigSudoku\SudokuGame\SudokuGame\obj\Debug\SudokuGame.pdb
